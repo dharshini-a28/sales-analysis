@@ -1,3 +1,4 @@
+
 # 📊 Superstore Sales Data Analysis
 
 > **A Python-based data analysis and visualization project using the Superstore dataset**
@@ -187,7 +188,8 @@ The analysis helps understand:
 * Discounts and profit
 * Delivery time
 * Category-wise sales
-
+<img width="455" height="338" alt="Screenshot 2026-08-28 142820" src="https://github.com/user-attachments/assets/2ce18435-429a-4033-b5bc-fe7071c7ab3d" />
+<img width="485" height="316" alt="Screenshot 2026-08-28 142759" src="https://github.com/user-attachments/assets/78e66acc-fb57-49c1-889f-3f0813992bed" />
 Overall, the project provides a simple and clear approach to **exploratory data analysis and visualization using Python**.
 
 ---
@@ -196,3 +198,4 @@ Overall, the project provides a simple and clear approach to **exploratory data 
 
 **Superstore Sales Data Analysis**
 **Developed using Python & Data Analysis Libraries**
+
